@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<list>
+	<armor id="1102003001" name="Обычный Шлем">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+
+	<armor id="1102003002" name="Защита+">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+
+	<armor id="1102003003" name="Защита++">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+
+	<armor id="1102003004" name="Защита+(тепловая система наведения)">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+
+	<armor id="1102003005" name="Защита+(Радиолокационное слежение)">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+
+	<armor id="1102003006" name="Защита++(Слежение за целью) (помоему это C-5 Детектор)">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+
+	<armor id="1102003007" name="Защита+++">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+
+	<armor id="1102003008" name="Защита+++(Супер шлем плюс)">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+</list>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<list>
+	<weapon id="100016002" name="РПГ-7 ">
+		<set name="class" val="ITEM_CLASS_SHOTGUN" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SHOTGUN" />
+	</weapon>
+
+	<weapon id="400006018" name="SPAS-15 MSC">
+		<set name="class" val="ITEM_CLASS_SHOTGUN" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SHOTGUN" />
+	</weapon>
+	
+	<weapon id="500010001" name="Mk 46 Ext.">
+		<set name="class" val="ITEM_CLASS_SHOTGUN" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SHOTGUN" />
+	</weapon>
+
+	<weapon id="500010002" name="Mk 46 Sl.">
+		<set name="class" val="ITEM_CLASS_SHOTGUN" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SHOTGUN" />
+	</weapon>
+
+	<weapon id="500010003" name="РПД">
+		<set name="class" val="ITEM_CLASS_SHOTGUN" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SHOTGUN" />
+	</weapon>
+
+	<weapon id="400006001" name="870MCS">
+		<set name="class" val="ITEM_CLASS_SHOTGUN" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SHOTGUN" />
+	</weapon>
+
+	<weapon id="400006002" name="Дробовик Кан Чольчьжуна">
+		<set name="class" val="ITEM_CLASS_SHOTGUN" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SHOTGUN" />
+	</weapon>
+
+	<weapon id="400006003" name="SPAS-15">
+		<set name="class" val="ITEM_CLASS_SHOTGUN" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SHOTGUN" />
+	</weapon>
+
+	<weapon id="400006004" name="870MCS W.">
+		<set name="class" val="ITEM_CLASS_SHOTGUN" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SHOTGUN" />
+	</weapon>
+
+	<weapon id="400006005" name="M1887">
+		<set name="class" val="ITEM_CLASS_SHOTGUN" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SHOTGUN" />
+	</weapon>
+
+	<weapon id="400006006" name="SPAS-15 Sl.">
+		<set name="class" val="ITEM_CLASS_SHOTGUN" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SHOTGUN" />
+	</weapon>
+
+	<weapon id="400006007" name="870MCS T.">
+		<set name="class" val="ITEM_CLASS_SHOTGUN" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SHOTGUN" />
+	</weapon>
+
+	<!--<weapon id="400006008" name="870MCS Sl.">
+		<set name="class" val="ITEM_CLASS_SHOTGUN" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SHOTGUN" />
+	</weapon>-->
+
+	<weapon id="400006009" name="SPAS-15 Sl.+">
+		<set name="class" val="ITEM_CLASS_SHOTGUN" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SHOTGUN" />
+	</weapon>
+
+	<weapon id="400006010" name="Дробоган 1">
+		<set name="class" val="ITEM_CLASS_SHOTGUN" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SHOTGUN" />
+	</weapon>
+
+	<weapon id="400006011" name="Дробаган 2">
+		<set name="class" val="ITEM_CLASS_SHOTGUN" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SHOTGUN" />
+	</weapon>
+
+	<weapon id="400006012" name="Какой то пулемет 1">
+		<set name="class" val="ITEM_CLASS_SHOTGUN" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SHOTGUN" />
+	</weapon>
+</list>

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<list>
+	<weapon id="200004001" name="MP5K Ext.">
+		<set name="class" val="ITEM_CLASS_SMG" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SMG" />
+	</weapon>
+
+	<weapon id="200004002" name="Spectre Ext.">
+		<set name="class" val="ITEM_CLASS_SMG" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SMG" />
+	</weapon>
+
+	<weapon id="200004003" name="K-1 Ext.">
+		<set name="class" val="ITEM_CLASS_SMG" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SMG" />
+	</weapon>
+
+	<weapon id="200004004" name="MP7 Ext.">
+		<set name="class" val="ITEM_CLASS_SMG" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SMG" />
+	</weapon>
+
+	<weapon id="200004006" name="K-1">
+		<set name="class" val="ITEM_CLASS_SMG" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SMG" />
+	</weapon>
+
+	<weapon id="200004007" name="MP5K G.">
+		<set name="class" val="ITEM_CLASS_SMG" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SMG" />
+	</weapon>
+
+	<weapon id="200004008" name="UMP45 Ext.">
+		<set name="class" val="ITEM_CLASS_SMG" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SMG" />
+	</weapon>
+
+	<weapon id="200004009" name="Spectre W.">
+		<set name="class" val="ITEM_CLASS_SMG" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SMG" />
+	</weapon>
+
+	<weapon id="200004010" name="P90 M.C">
+		<set name="class" val="ITEM_CLASS_SMG" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SMG" />
+	</weapon>
+
+	<weapon id="200004011" name="P90 Ext.">
+		<set name="class" val="ITEM_CLASS_SMG" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SMG" />
+	</weapon>
+
+	<weapon id="200004012" name="KrissSuperV">
+		<set name="class" val="ITEM_CLASS_SMG" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SMG" />
+	</weapon>
+
+	<weapon id="200004013" name="Kriss S. V.">
+		<set name="class" val="ITEM_CLASS_SMG" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SMG" />
+	</weapon>
+
+	<weapon id="200004014" name="MP5K Sl.">
+		<set name="class" val="ITEM_CLASS_SMG" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SMG" />
+	</weapon>
+
+	<weapon id="200004015" name="MP5K Wh.">
+		<set name="class" val="ITEM_CLASS_SMG" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SMG" />
+	</weapon>
+
+	<weapon id="200004016" name="Spectre Wh.">
+		<set name="class" val="ITEM_CLASS_SMG" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SMG" />
+	</weapon>
+
+	<weapon id="200004019" name="Kriss S. V.">
+		<set name="class" val="ITEM_CLASS_SMG" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SMG" />
+	</weapon>
+
+	<weapon id="200004020" name="Spectre Sl.">
+		<set name="class" val="ITEM_CLASS_SMG" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SMG" />
+	</weapon>
+
+	<weapon id="200004021" name="K-1 Sl.">
+		<set name="class" val="ITEM_CLASS_SMG" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SMG" />
+	</weapon>
+
+	<weapon id="200004022" name="MP7 Sl.">
+		<set name="class" val="ITEM_CLASS_SMG" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SMG" />
+	</weapon>
+
+	<weapon id="200004023" name="UMP45 Sl.">
+		<set name="class" val="ITEM_CLASS_SMG" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SMG" />
+	</weapon>
+
+	<weapon id="200004024" name="MP5K D G.">
+		<set name="class" val="ITEM_CLASS_SMG" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SMG" />
+	</weapon>
+
+	<weapon id="200004025" name="Spectre W D.">
+		<set name="class" val="ITEM_CLASS_SMG" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SMG" />
+	</weapon>
+	
+	<weapon id="200004026" name="kriss S.V G.">
+		<set name="class" val="ITEM_CLASS_SMG" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SMG" />
+	</weapon>
+
+	<weapon id="200004028" name="kriss S.V G. Dummy">
+		<set name="class" val="ITEM_CLASS_SMG" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SMG" />
+	</weapon>
+	
+	<weapon id="200004029" name="p90 ext D">
+		<set name="class" val="ITEM_CLASS_SMG" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SMG" />
+	</weapon>
+
+	<weapon id="200004032" name="p90 M.C. D">
+		<set name="class" val="ITEM_CLASS_SMG" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SMG" />
+	</weapon>
+
+	<weapon id="200004033" name="AKS47U Ext.">
+		<set name="class" val="ITEM_CLASS_SMG" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SMG" />
+	</weapon>
+
+	<weapon id="200004034" name="M4 CQB-R lvl1.">
+		<set name="class" val="ITEM_CLASS_SMG" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SMG" />
+	</weapon>
+
+	<weapon id="200004035" name="M4 CQB-R lvl2.">
+		<set name="class" val="ITEM_CLASS_SMG" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SMG" />
+	</weapon>
+
+	<weapon id="200004036" name="M4 CQB-R lvl3.">
+		<set name="class" val="ITEM_CLASS_SMG" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SMG" />
+	</weapon>
+
+	<weapon id="200004039" name="Kriss S.V Black">
+		<set name="class" val="ITEM_CLASS_SMG" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SMG" />
+	</weapon>
+
+	<weapon id="200004043" name="SS1-R5 Carabine">
+		<set name="class" val="ITEM_CLASS_SMG" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SMG" />
+	</weapon>
+
+		<weapon id="200018004" name="Двойной Узи">
+		<set name="class" val="ITEM_CLASS_SMG" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SMG" />
+	</weapon>
+
+	<weapon id="200018005" name="Дв. Мини-Узи">
+		<set name="class" val="ITEM_CLASS_SMG" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SMG" />
+	</weapon>
+
+	<weapon id="200018006" name="Двойной микро-Узи">
+		<set name="class" val="ITEM_CLASS_SMG" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SMG" />
+	</weapon>
+
+	<weapon id="200018007" name="Дв. Узи с глуш.">
+		<set name="class" val="ITEM_CLASS_SMG" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SMG" />
+	</weapon>
+
+	<weapon id="200018008" name="Дв. мини-Узи с глуш.">
+		<set name="class" val="ITEM_CLASS_SMG" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SMG" />
+	</weapon>
+</list>

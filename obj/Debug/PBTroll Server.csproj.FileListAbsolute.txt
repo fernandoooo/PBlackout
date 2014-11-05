@@ -1,0 +1,48 @@
+C:\Users\Marcelo\Desktop\Servidor do PBTroll\Server\obj\Debug\PBServer.exe
+C:\Users\Marcelo\Desktop\Servidor do PBTroll\Server\obj\Debug\PBServer.pdb
+C:\Users\Marcelo\Desktop\Servidor do PBTroll\Server\bin\Debug\PBServer.exe
+C:\Users\Marcelo\Desktop\Servidor do PBTroll\Server\bin\Debug\PBServer.pdb
+C:\Users\Marcelo\Desktop\Servidor do PBTroll\Server\bin\Debug\MySql.Data.dll
+C:\Users\Marcelo\Desktop\Servidor do PBTroll\Server\obj\Debug\PBTroll Server.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Desktop\Servidor do PBTroll\Server\obj\Debug\PBServer.Properties.Resources.resources
+C:\Users\Marcelo\Desktop\Servidor do PBTroll\Server\obj\Debug\PBTroll Server.csproj.GenerateResource.Cache
+C:\Users\jhon\Downloads\PBT\Server\obj\Debug\PBServer.exe
+C:\Users\jhon\Downloads\PBT\Server\obj\Debug\PBServer.pdb
+C:\Users\jhon\Downloads\PBT\Server\bin\Debug\PBServer.exe
+C:\Users\jhon\Downloads\PBT\Server\bin\Debug\PBServer.pdb
+C:\Users\jhon\Downloads\PBT\Server\bin\Debug\MySql.Data.dll
+C:\Users\jhon\Downloads\PBT\Server\obj\Debug\PBTroll Server.csprojResolveAssemblyReference.cache
+C:\Users\jhon\Downloads\PBT\Server\obj\Debug\PBServer.Properties.Resources.resources
+C:\Users\jhon\Downloads\PBT\Server\obj\Debug\PBTroll Server.csproj.GenerateResource.Cache
+C:\Users\jhon\Downloads\PBT\Server C#\serverpbth\obj\Debug\PBServer.exe
+C:\Users\jhon\Downloads\PBT\Server C#\serverpbth\obj\Debug\PBServer.pdb
+C:\Users\jhon\Downloads\PBT\Server C#\serverpbth\bin\Debug\PBServer.exe
+C:\Users\jhon\Downloads\PBT\Server C#\serverpbth\bin\Debug\PBServer.pdb
+C:\Users\jhon\Downloads\PBT\Server C#\serverpbth\bin\Debug\MySql.Data.dll
+C:\Users\jhon\Downloads\PBT\Server C#\serverpbth\obj\Debug\PBTroll Server.csprojResolveAssemblyReference.cache
+C:\Users\jhon\Downloads\PBT\Server C#\serverpbth\obj\Debug\PBServer.Properties.Resources.resources
+C:\Users\jhon\Downloads\PBT\Server C#\serverpbth\obj\Debug\PBTroll Server.csproj.GenerateResource.Cache
+C:\Users\Marcelo\Desktop\serverpbth\obj\Debug\PBServer.exe
+C:\Users\Marcelo\Desktop\serverpbth\obj\Debug\PBServer.pdb
+C:\Users\Marcelo\Desktop\serverpbth\bin\Debug\PBServer.exe
+C:\Users\Marcelo\Desktop\serverpbth\bin\Debug\PBServer.pdb
+C:\Users\Marcelo\Desktop\serverpbth\bin\Debug\MySql.Data.dll
+C:\Users\Marcelo\Desktop\serverpbth\obj\Debug\PBTroll Server.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Desktop\serverpbth\obj\Debug\PBServer.Properties.Resources.resources
+C:\Users\Marcelo\Desktop\serverpbth\obj\Debug\PBTroll Server.csproj.GenerateResource.Cache
+J:\Nova pasta\serverpbth\obj\Debug\PBServer.exe
+J:\Nova pasta\serverpbth\obj\Debug\PBServer.pdb
+J:\Nova pasta\serverpbth\bin\Debug\PBServer.exe
+J:\Nova pasta\serverpbth\bin\Debug\PBServer.pdb
+J:\Nova pasta\serverpbth\bin\Debug\MySql.Data.dll
+J:\Nova pasta\serverpbth\obj\Debug\PBTroll Server.csprojResolveAssemblyReference.cache
+J:\Nova pasta\serverpbth\obj\Debug\PBServer.Properties.Resources.resources
+J:\Nova pasta\serverpbth\obj\Debug\PBTroll Server.csproj.GenerateResource.Cache
+C:\Users\Guilherme\Desktop\PB\PBTroll Server 1-29\serverpbth\obj\Debug\PBServer.exe
+C:\Users\Guilherme\Desktop\PB\PBTroll Server 1-29\serverpbth\obj\Debug\PBServer.pdb
+C:\Users\Guilherme\Desktop\PB\PBTroll Server 1-29\serverpbth\bin\Debug\PBServer.exe
+C:\Users\Guilherme\Desktop\PB\PBTroll Server 1-29\serverpbth\bin\Debug\PBServer.pdb
+C:\Users\Guilherme\Desktop\PB\PBTroll Server 1-29\serverpbth\bin\Debug\MySql.Data.dll
+C:\Users\Guilherme\Desktop\PB\PBTroll Server 1-29\serverpbth\obj\Debug\PBTroll Server.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Desktop\PB\PBTroll Server 1-29\serverpbth\obj\Debug\PBServer.Properties.Resources.resources
+C:\Users\Guilherme\Desktop\PB\PBTroll Server 1-29\serverpbth\obj\Debug\PBTroll Server.csproj.GenerateResource.Cache

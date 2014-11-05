@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<list>
+	<a id="100001030" name="10% EXP UP">
+		<set name="class" val="ITEM_CLASS_COUPON" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_ITEM" />
+	</a>
+</list>

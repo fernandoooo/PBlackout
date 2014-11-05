@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<list>
+	<gameserver name="hidden" id="0" password="notUse" max_players="600" type="1" ip="*" /> <!-- Invisible -->
+	<gameserver name="first" id="1" password="notUse" max_players="600" type="1" ip="*" /> <!-- Имеется в основном сервере -->
+	<gameserver name="second" id="2" password="notUse" max_players="600" type="1" ip="*" /> <!-- Имеется в основном сервере -->
+</list>

@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<list>
+	<cupon id="100001030" name="10% EXP UP">
+		<set name="class" val="ITEM_CLASS_COUPON" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_ITEM" />
+	</cupon>
+	<cupon id="100002030" name="30% EXP UP">
+		<set name="class" val="ITEM_CLASS_COUPON" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_ITEM" />
+	</cupon>
+	<cupon id="100003030" name="50% EXP UP">
+		<set name="class" val="ITEM_CLASS_COUPON" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_ITEM" />
+	</cupon>
+	<cupon id="100004030" name="30% points ">
+		<set name="class" val="ITEM_CLASS_COUPON" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_ITEM" />
+	</cupon>
+	<cupon id="100005000" name="Цвет ника клана">
+		<set name="class" val="ITEM_CLASS_COUPON" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_ITEM" />
+	</cupon>
+	<cupon id="100006000" name="Цвет Ника">
+		<set name="class" val="ITEM_CLASS_COUPON" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_ITEM" />
+	</cupon>
+	<cupon id="100007030" name="Уменьшение времени респ 30%">
+		<set name="class" val="ITEM_CLASS_COUPON" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_ITEM" />
+	</cupon>
+	<cupon id="100008030" name="Дополнителные патроны">
+		<set name="class" val="ITEM_CLASS_COUPON" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_ITEM" />
+	</cupon>
+	<cupon id="100009030" name="Скрытие ранга солдата">
+		<set name="class" val="ITEM_CLASS_COUPON" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_ITEM" />
+	</cupon>
+	<cupon id="100010030" name="Временный ник">
+		<set name="class" val="ITEM_CLASS_COUPON" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_ITEM" />
+	</cupon>
+	<cupon id="100011030" name="Свободный выход">
+		<set name="class" val="ITEM_CLASS_COUPON" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_ITEM" />
+	</cupon>
+	<cupon id="100012030" name="Опыт клана 150%">
+		<set name="class" val="ITEM_CLASS_COUPON" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_ITEM" />
+	</cupon>
+	<cupon id="100013030" name="Измененный Прицел">
+		<set name="class" val="ITEM_CLASS_COUPON" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_ITEM" />
+	</cupon>
+	<cupon id="100014030" name="Цвет Прицела">
+		<set name="class" val="ITEM_CLASS_COUPON" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_ITEM" />
+	</cupon>
+	<cupon id="100015030" name="Цвет чата">
+		<set name="class" val="ITEM_CLASS_COUPON" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_ITEM" />
+	</cupon>
+	<cupon id="100017030" name="Мародество">
+		<set name="class" val="ITEM_CLASS_COUPON" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_ITEM" />
+	</cupon>
+	<cupon id="100018030" name="Опыт x2(12:00-15:00">
+		<set name="class" val="ITEM_CLASS_COUPON" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_ITEM" />
+	</cupon>
+	<cupon id="100019030" name="Опыт x2(15:00-18:00">
+		<set name="class" val="ITEM_CLASS_COUPON" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_ITEM" />
+	</cupon>
+	<cupon id="100020030" name="Опыт x2(18:00-21:00">
+		<set name="class" val="ITEM_CLASS_COUPON" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_ITEM" />
+	</cupon>
+	<cupon id="100021030" name="Опыт x2(21:00-00:00">
+		<set name="class" val="ITEM_CLASS_COUPON" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_ITEM" />
+	</cupon>
+	<cupon id="100022030" name="Очки x2(12:00-15:00">
+		<set name="class" val="ITEM_CLASS_COUPON" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_ITEM" />
+	</cupon>
+	<cupon id="100023030" name="Очки x2(15:00-18:00">
+		<set name="class" val="ITEM_CLASS_COUPON" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_ITEM" />
+	</cupon>
+	<cupon id="100024030" name="Очки x2(18:00-21:00">
+		<set name="class" val="ITEM_CLASS_COUPON" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_ITEM" />
+	</cupon>
+	<cupon id="100025030" name="Очки x2(21:00-00:00">
+		<set name="class" val="ITEM_CLASS_COUPON" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_ITEM" />
+	</cupon>
+	<cupon id="100026030" name="Быстрая смена оружия">
+		<set name="class" val="ITEM_CLASS_COUPON" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_ITEM" />
+	</cupon>
+	<cupon id="100027030" name="Быстрая перезарядка">
+		<set name="class" val="ITEM_CLASS_COUPON" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_ITEM" />
+	</cupon>
+	<cupon id="100028030" name="Здоровье +10%">
+		<set name="class" val="ITEM_CLASS_COUPON" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_ITEM" />
+	</cupon>
+	<cupon id="100029030" name="Бессмертие +1 сек">
+		<set name="class" val="ITEM_CLASS_COUPON" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_ITEM" />
+	</cupon>
+	<cupon id="100030030" name="+5% к броне">
+		<set name="class" val="ITEM_CLASS_COUPON" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_ITEM" />
+	</cupon>
+	<cupon id="100031030" name="Кумулятивные патроны">
+		<set name="class" val="ITEM_CLASS_COUPON" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_ITEM" />
+	</cupon>
+	<cupon id="100032030" name="Трассирущие патроны">
+		<set name="class" val="ITEM_CLASS_COUPON" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_ITEM" />
+	</cupon>
+	<cupon id="100033030" name="Anti Flash BanG Mask">
+		<set name="class" val="ITEM_CLASS_COUPON" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_ITEM" />
+	</cupon>
+	<cupon id="100034030" name="C4 Speed Up">
+		<set name="class" val="ITEM_CLASS_COUPON" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_ITEM" />
+	</cupon>
+	<cupon id="100035030" name="Дополнительный боеприпас">
+		<set name="class" val="ITEM_CLASS_COUPON" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_ITEM" />
+	</cupon>
+	<cupon id="100036030" name="Экспансивные патроны">
+		<set name="class" val="ITEM_CLASS_COUPON" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_ITEM" />
+	</cupon>
+	<cupon id="100037030" name="Опыт 200%">
+		<set name="class" val="ITEM_CLASS_COUPON" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_ITEM" />
+	</cupon>
+	<cupon id="100038030" name="Очки 200%">
+		<set name="class" val="ITEM_CLASS_COUPON" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_ITEM" />
+	</cupon>
+	<cupon id="100040030" name="Жизнь 5%">
+		<set name="class" val="ITEM_CLASS_COUPON" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_ITEM" />
+	</cupon>
+</list>

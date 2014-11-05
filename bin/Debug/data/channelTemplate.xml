@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<list>
+	<channel name="hidden" id="0" type="3" max_players="300" announce="Bem vindo ao Canal 1 'INICIANTE' PBTroll"/>
+	<channel name="hidden" id="1" type="2" max_players="300" announce="Bem vindo ao Canal 2 'INICIANTE' PBTroll"/>
+	<channel name="hidden" id="2" type="1" max_players="300" announce="Bem vindo ao Canal 3 'NORMAL' PBTroll"/>
+	<channel name="hidden" id="3" type="1" max_players="300" announce="Bem vindo ao Canal 4 'NORMAL' PBTroll"/>
+	<channel name="hidden" id="4" type="1" max_players="300" announce="Bem vindo ao Canal 5 'NORMAL' PBTroll"/>
+	<channel name="hidden" id="5" type="1" max_players="300" announce="Bem vindo ao Canal 6 'NORMAL' PBTroll"/>
+	<channel name="hidden" id="6" type="5" max_players="300" announce="Bem vindo ao Canal 7 'VETERANO' PBTroll"/>
+	<channel name="hidden" id="7" type="5" max_players="300" announce="Bem vindo ao Canal 8 'VETERANO' PBTroll"/>
+	<channel name="hidden" id="8" type="4" max_players="300" announce="Bem vindo ao Canal 9 'CLAN' PBTroll"/>
+	<channel name="hidden" id="9" type="4" max_players="300" announce="Bem vindo ao Canal 10 'CLAN' PBTroll"/>
+</list>

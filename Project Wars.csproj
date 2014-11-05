@@ -1,0 +1,422 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <!--Project was exported from assembly: D:\Games\OZ-Network\pb\rev\server\Project Blackout Server Consolidation.exe-->
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{266745F7-1D87-4E22-AD99-5251D88140A6}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AssemblyName>PBServer</AssemblyName>
+    <RootNamespace>PBServer</RootNamespace>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>0.0.4.0</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>server.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="MySql.Data">
+      <HintPath>lib\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Data" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.cs" />
+    <Compile Include="clientpacket.cs" />
+    <Compile Include="model\ENUMS\EQMIPEMENT_SLOT.cs" />
+    <Compile Include="model\players\SItemsModel.cs" />
+    <Compile Include="network\clientpacket\CM_FRIEND_REMOVE.cs" />
+    <Compile Include="network\clientpacket\PROTOCOL_AUTH_SEND_WHISPER_REQ.cs" />
+    <Compile Include="network\clientpacket\PROTOCOL_BASE_USER_MISSION_BUY_REQ.cs" />
+    <Compile Include="network\clientpacket\PROTOCOL_BASE_USER_MISSION_SHOW_REQ.cs" />
+    <Compile Include="network\clientpacket\PROTOCOL_BASE_USER_TITLE_DETACH_REQ.cs" />
+    <Compile Include="network\clientpacket\PROTOCOL_BASE_USER_TITLE_GET_REQ.cs" />
+    <Compile Include="network\clientpacket\PROTOCOL_BASE_USER_TITLE_USE_REQ.cs" />
+    <Compile Include="network\clientpacket\PROTOCOL_CUPON_CHANGE_PLAYER_NAME_REQ.cs" />
+    <Compile Include="network\clientpacket\CM_FRIEND_INVITE.cs" />
+    <Compile Include="network\clientpacket\PROTOCOL_LOBBY_CREATE_NICK_NAME_REQ.cs" />
+    <Compile Include="network\clientpacket\PROTOCOL_LOBBY_FIND_PLAYERINFO_REQ.cs" />
+    <Compile Include="network\clientpacket\PROTOCOL_LOBBY_GET_PLAYERINFO_REQ.cs" />
+    <Compile Include="network\clientpacket\PROTOCOL_LOBBY_QUICKJOIN_ROOM_REQ.cs" />
+    <Compile Include="network\clientpacket\PROTOCOL_OUTPOST_ENTER_REQ.cs" />
+    <Compile Include="network\clientpacket\PROTOCOL_OUTPOST_LEAVE_REQ.cs" />
+    <Compile Include="network\clientpacket\PROTOCOL_ROOM_GET_LOBBY_USER_LIST_REQ.cs" />
+    <Compile Include="network\clientpacket\PROTOCOL_ROOM_HOST_CHANGE_TEAM_REQ.cs" />
+    <Compile Include="network\clientpacket\PROTOCOL_ROOM_CHANGE_HOST_REQ.cs" />
+    <Compile Include="network\Game\packets\clientpackets\CM_CLAN_SAVEINFO1.cs" />
+    <Compile Include="network\Game\packets\clientpackets\CM_CLAN_SAVEINFO2.cs" />
+    <Compile Include="network\Game\packets\clientpackets\CM_INVITE_ROOM_RETURN.cs" />
+    <Compile Include="network\Game\packets\clientpackets\opcode_1304_REQ.cs" />
+    <Compile Include="network\Game\packets\clientpackets\opcode_1306_REQ.cs" />
+    <Compile Include="network\Game\packets\clientpackets\opcode_1310_REQ.cs" />
+    <Compile Include="network\Game\packets\clientpackets\opcode_1312_REQ.cs" />
+    <Compile Include="network\Game\packets\clientpackets\opcode_1320_REQ.cs" />
+    <Compile Include="network\Game\packets\clientpackets\opcode_1358_REQ.cs" />
+    <Compile Include="network\Game\packets\clientpackets\opcode_1360_REQ.cs" />
+    <Compile Include="network\Game\packets\clientpackets\opcode_1416_REQ.cs" />
+    <Compile Include="network\Game\packets\clientpackets\opcode_1446_REQ.cs" />
+    <Compile Include="network\Game\packets\clientpackets\opcode_1447_REQ.cs" />
+    <Compile Include="network\Game\packets\clientpackets\opcode_1451_REQ.cs" />
+    <Compile Include="network\Game\packets\clientpackets\opcode_2575_REQ.cs" />
+    <Compile Include="network\Game\packets\clientpackets\opcode_2581_REQ.cs" />
+    <Compile Include="network\Game\packets\clientpackets\opcode_2845_REQ.cs" />
+    <Compile Include="network\Game\packets\clientpackets\opcode_2901_REQ.cs" />
+    <Compile Include="network\Game\packets\clientpackets\opcode_3413_REQ.cs" />
+    <Compile Include="network\Game\packets\clientpackets\opcode_3587_REQ.cs" />
+    <Compile Include="network\Game\packets\clientpackets\opcode_3591_REQ.cs" />
+    <Compile Include="network\Game\packets\clientpackets\opcode_3593_REQ.cs" />
+    <Compile Include="network\Game\packets\clientpackets\opcode_3604_REQ.cs" />
+    <Compile Include="network\Game\packets\clientpackets\opcode_3608_REQ.cs" />
+    <Compile Include="network\Game\packets\clientpackets\opcode_3620_REQ.cs" />
+    <Compile Include="network\Game\packets\clientpackets\opcode_3632_REQ.cs" />
+    <Compile Include="network\Game\packets\clientpackets\opcode_3859_REQ.cs" />
+    <Compile Include="network\Game\packets\clientpackets\opcode_3865_REQ.cs" />
+    <Compile Include="network\Game\packets\clientpackets\opcode_3867_REQ.cs" />
+    <Compile Include="network\Game\packets\clientpackets\opcode_417_REQ.cs" />
+    <Compile Include="network\Game\packets\clientpackets\opcode_534_REQ.cs" />
+    <Compile Include="network\Game\packets\clientpackets\opcode_536_REQ.cs" />
+    <Compile Include="network\Game\packets\clientpackets\opcode_542_REQ.cs" />
+    <Compile Include="network\Game\packets\clientpackets\opcode_544_REQ.cs" />
+    <Compile Include="network\Game\packets\clientpackets\opcode_SHOP_BUY_REQ.cs" />
+    <Compile Include="network\Game\packets\serverpackets\opcode_1304_ACK.cs" />
+    <Compile Include="network\Game\packets\serverpackets\opcode_1306_ACK.cs" />
+    <Compile Include="network\Game\packets\serverpackets\opcode_2901_ACK.cs" />
+    <Compile Include="network\Game\packets\serverpackets\SM_CLAN_SAVEINFO1.cs" />
+    <Compile Include="network\Game\packets\serverpackets\SM_CLAN_SAVEINFO2.cs" />
+    <Compile Include="network\Game\packets\serverpackets\SM_CUPON_EQUIP2.cs" />
+    <Compile Include="network\Game\packets\serverpackets\SM_INVITE_ROOM_RETURN.cs" />
+    <Compile Include="network\Game\packets\serverpackets\S_CLAN_DISBAND.cs" />
+    <Compile Include="network\Game\packets\serverpackets\opcode_1320_ACK.cs" />
+    <Compile Include="network\Game\packets\serverpackets\opcode_1332_ACK.cs" />
+    <Compile Include="network\Game\packets\serverpackets\S_BASE_GET_MYCLANP.cs" />
+    <Compile Include="network\Game\packets\serverpackets\opcode_1360_ACK.cs" />
+    <Compile Include="network\Game\packets\serverpackets\opcode_1372_ACK.cs" />
+    <Compile Include="network\Game\packets\serverpackets\opcode_1392_ACK.cs" />
+    <Compile Include="network\Game\packets\serverpackets\opcode_1396_ACK.cs" />
+    <Compile Include="network\Game\packets\serverpackets\opcode_1538_ACK.cs" />
+    <Compile Include="network\Game\packets\serverpackets\opcode_1540_ACK.cs" />
+    <Compile Include="network\Game\packets\serverpackets\opcode_1546_ACK.cs" />
+    <Compile Include="network\Game\packets\serverpackets\S_PLAYER_CONFIG.cs" />
+    <Compile Include="network\Game\packets\serverpackets\S_SHOP_TEST_1.cs" />
+    <Compile Include="network\Game\packets\serverpackets\S_SHOP_TEST_2.cs" />
+    <Compile Include="network\Game\packets\serverpackets\S_UPDATE_ROOMLIST.cs" />
+    <Compile Include="network\Game\packets\serverpackets\opcode_2583_ACK.cs" />
+    <Compile Include="network\Game\packets\serverpackets\opcode_2845_ACK.cs" />
+    <Compile Include="network\Game\packets\serverpackets\opcode_3413_ACK.cs" />
+    <Compile Include="network\Game\packets\serverpackets\opcode_3898_ACK.cs" />
+    <Compile Include="network\Game\packets\serverpackets\S_ROOM_GET_PLAYERINFO.cs" />
+    <Compile Include="network\Game\packets\serverpackets\S_ROOM_CHANGE_INFO.cs" />
+    <Compile Include="network\Game\packets\serverpackets\S_ROOM_CHANGE_PASS.cs" />
+    <Compile Include="network\Game\packets\serverpackets\S_RINVITE_FROM_ROOM.cs" />
+    <Compile Include="network\Game\packets\serverpackets\opcode_3608_ACK.cs" />
+    <Compile Include="network\Game\packets\serverpackets\opcode_3620_ACK.cs" />
+    <Compile Include="network\Game\packets\serverpackets\opcode_3857_ACK.cs" />
+    <Compile Include="network\Game\packets\serverpackets\opcode_3859_ACK.cs" />
+    <Compile Include="network\Game\packets\serverpackets\S_BATTLE_END_ROUND.cs" />
+    <Compile Include="network\Game\packets\serverpackets\opcode_3882_ACK.cs" />
+    <Compile Include="network\Game\packets\serverpackets\opcode_3896_ACK.cs" />
+    <Compile Include="network\Game\packets\serverpackets\opcode_417_ACK.cs" />
+    <Compile Include="network\Game\packets\serverpackets\S_SHOP_BUY_ITEM.cs" />
+    <Compile Include="network\Game\packets\serverpackets\SM_INVENTORY_EQUIP_NOTUSED.cs" />
+    <Compile Include="network\Game\packets\serverpackets\opcode_536_ACK.cs" />
+    <Compile Include="network\Game\packets\serverpackets\opcode_542_ACK.cs" />
+    <Compile Include="network\Game\packets\serverpackets\opcode_544_ACK.cs" />
+    <Compile Include="network\Login\packets\clientpacket\opcode_2575_REQ.cs" />
+    <Compile Include="network\Login\packets\clientpacket\opcode_2579_REQ.cs" />
+    <Compile Include="network\Login\packets\clientpacket\opcode_2678_REQ.cs" />
+    <Compile Include="network\Login\packets\clientpacket\opcode_2662_REQ.cs" />
+    <Compile Include="network\Game\packets\clientpackets\opcode_519_REQ.cs" />
+    <Compile Include="network\Game\packets\serverpackets\S_CLAN_CREATE.cs" />
+    <Compile Include="network\Game\packets\serverpackets\S_CLAN_1417.cs" />
+    <Compile Include="network\Game\packets\serverpackets\S_CLAN_LIST.cs" />
+    <Compile Include="network\Game\packets\serverpackets\S_CLAN_CHECK_NAME.cs" />
+    <Compile Include="network\Game\packets\serverpackets\S_CLAN_QUANTITY.cs" />
+    <Compile Include="network\Login\packets\serverpackets\opcode_2678_ACK.cs" />
+    <Compile Include="network\Login\packets\serverpackets\S_UPDATE_CHANNELS.cs" />
+    <Compile Include="network\Login\packets\serverpackets\opcode_2579_ACK.cs" />
+    <Compile Include="network\Login\packets\serverpackets\opcode_2662_ACK.cs" />
+    <Compile Include="network\Game\packets\serverpackets\opcode_519_ACK.cs" />
+    <Compile Include="network\serverpackets\S_CHAT_TEAM.cs" />
+    <Compile Include="network\serverpackets\S_MESSAGE_SEND.cs" />
+    <Compile Include="network\serverpackets\SM_WHISPER_RECEIVER.cs" />
+    <Compile Include="network\serverpackets\SM_WHISPER_CHECK.cs" />
+    <Compile Include="network\serverpackets\S_BASE_MISSION_BUY.cs" />
+    <Compile Include="network\serverpackets\S_BASE_MISSION_ENTER.cs" />
+    <Compile Include="network\serverpackets\SM_TITLE_DETACH.cs" />
+    <Compile Include="network\serverpackets\SM_TITLE_GET.cs" />
+    <Compile Include="network\serverpackets\SM_TITLE_USE.cs" />
+    <Compile Include="network\serverpackets\SM_FRIEND_INVITE.cs" />
+    <Compile Include="network\serverpackets\S_LOBBY_FIND_PLAYERINFO.cs" />
+    <Compile Include="network\serverpackets\S_LOBBY_GET_PLAYERINFO.cs" />
+    <Compile Include="network\serverpackets\S_LOBBY_QUICKJOIN.cs" />
+    <Compile Include="network\serverpackets\SM_FRIEND_REMOVE.cs" />
+    <Compile Include="network\serverpackets\PROTOCOL_CUPON_CHANGE_PLAYER_NAME_ACK.cs" />
+    <Compile Include="network\serverpackets\S_OUTPOST_ENTER.cs" />
+    <Compile Include="network\serverpackets\S_OUTPOST_LEAVE.cs" />
+    <Compile Include="network\serverpackets\S_ROOM_CHANGE_TEAM.cs" />
+    <Compile Include="network\serverpackets\S_ROOM_LOBBY_USER_LIST.cs" />
+    <Compile Include="network\serverpackets\S_ROOM_CHANGE_HOST.cs" />
+    <Compile Include="network\serverpackets\S_KICK_PLAYER.cs" />
+    <Compile Include="SendBaseGamePacket.cs" />
+    <Compile Include="NetworkLoginFactory.cs" />
+    <Compile Include="SendBaseLoginPacket.cs" />
+    <Compile Include="Programm.cs" />
+    <Compile Include="NetworkGameFactory.cs" />
+    <Compile Include="GameClientManager.cs" />
+    <Compile Include="ConfigFile.cs" />
+    <Compile Include="CLogger.cs" />
+    <Compile Include="LoginClient.cs" />
+    <Compile Include="GameClient.cs" />
+    <Compile Include="Config.cs" />
+    <Compile Include="LoginClientManager.cs" />
+    <Compile Include="data\NB_interface.cs" />
+    <Compile Include="data\NetworkBlock.cs" />
+    <Compile Include="data\model\RankExpModel.cs" />
+    <Compile Include="data\model\PlayerTemplateInventory.cs" />
+    <Compile Include="data\model\PlayerTemplate.cs" />
+    <Compile Include="data\xml\holders\PlayerTemplateHolder.cs" />
+    <Compile Include="data\xml\holders\RankExpInfoHolder.cs" />
+    <Compile Include="data\xml\holders\StartedInventoryItemsHolder.cs" />
+    <Compile Include="data\xml\parsers\StartedInventoryItemsParser.cs" />
+    <Compile Include="data\xml\parsers\RankExpInfoParser.cs" />
+    <Compile Include="data\xml\parsers\PlayerTemplateParser.cs" />
+    <Compile Include="network\ReceiveBaseGamePacket.cs" />
+    <Compile Include="network\ReceiveBaseLoginPacket.cs" />
+    <Compile Include="network\Game\packets\clientpackets\opcode_3650_REQ.cs" />
+    <Compile Include="network\Game\packets\clientpackets\opcode_3906_REQ.cs" />
+    <Compile Include="network\Game\packets\clientpackets\opcode_3079_REQ.cs" />
+    <Compile Include="network\Game\packets\clientpackets\PROTOCOL_LOBBY_SHOP_LIST_REQ.cs" />
+    <Compile Include="network\Game\packets\clientpackets\opcode_3870_REQ.cs" />
+    <Compile Include="network\Game\packets\clientpackets\opcode_2653_REQ.cs" />
+    <Compile Include="network\Game\packets\clientpackets\PROTOCOL_BATTLE_GIVEUPBATTLE_REQ.cs" />
+    <Compile Include="network\Game\packets\clientpackets\PROTOCOL_BASE_LEAVE_PROFILE_REQ.cs" />
+    <Compile Include="network\Game\packets\clientpackets\opcode_3853_REQ.cs" />
+    <Compile Include="network\Game\packets\clientpackets\PROTOCOL_ROOM_CLOSE_SLOT_REQ.cs" />
+    <Compile Include="network\Game\packets\clientpackets\opcode_3890_REQ.cs" />
+    <Compile Include="network\Game\packets\clientpackets\opcode_3872_REQ.cs" />
+    <Compile Include="network\Game\packets\serverpackets\S_SHOP_LIST.cs" />
+    <Compile Include="network\Game\packets\serverpackets\S_STOP_BATTLE.cs" />
+    <Compile Include="network\Game\packets\serverpackets\S_BOMB_INSTALL.cs" />
+    <Compile Include="network\Game\packets\serverpackets\opcode_2596_ACK.cs" />
+    <Compile Include="network\Game\packets\serverpackets\S_SHOP_GET_ITEMS.cs" />
+    <Compile Include="network\Game\packets\serverpackets\opcode_3879_ACK.cs" />
+    <Compile Include="network\Game\packets\serverpackets\S_BASE_LEAVE_PROFILE.cs" />
+    <Compile Include="network\Game\packets\serverpackets\S_BATTLE_ROOMINFO.cs" />
+    <Compile Include="network\Game\packets\serverpackets\opcode_2614_ACK.cs" />
+    <Compile Include="network\Game\packets\serverpackets\S_SLOT_INFO.cs" />
+    <Compile Include="network\Game\packets\serverpackets\S_SHOP_GET_GOODS.cs" />
+    <Compile Include="network\Game\packets\serverpackets\S_CREATE_EQUIPMENT.cs" />
+    <Compile Include="network\Game\packets\serverpackets\opcode_3890_ACK.cs" />
+    <Compile Include="network\Game\packets\serverpackets\opcode_279_ACK.cs" />
+    <Compile Include="network\Game\packets\serverpackets\S_START_BATTLE.cs" />
+    <Compile Include="network\Game\packets\serverpackets\S_BOMB_UNISTALL.cs" />
+    <Compile Include="network\Game\packets\serverpackets\S_BATTLE_GIVEUPBATTLE.cs" />
+    <Compile Include="network\Game\packets\serverpackets\S_KILL_MESSAGE.cs" />
+    <Compile Include="network\Game\packets\serverpackets\opcode_3079_ACK.cs" />
+    <Compile Include="network\Game\packets\serverpackets\S_ROOM_PLAYER_ENTER.cs" />
+    <Compile Include="network\Game\packets\serverpackets\opcode_3906_ACK.cs" />
+    <Compile Include="network\Game\packets\serverpackets\S_SHOP_GET_MATCHING.cs" />
+    <Compile Include="network\serverpackets\S_INVENTORY_ENTER.cs" />
+    <Compile Include="network\serverpackets\S_LOBBY_CHATTING.cs" />
+    <Compile Include="network\serverpackets\S_LOBBY_CREATE_NICKNAME.cs" />
+    <Compile Include="network\serverpackets\S_SHOP_ENTER.cs" />
+    <Compile Include="network\serverpackets\S_BASE_LOGIN.cs" />
+    <Compile Include="network\Game\packets\serverpackets\S_BATTLE_PLAYER_PING.cs" />
+    <Compile Include="network\serverpackets\S_LOBBY_GET_ROOMLIST.cs" />
+    <Compile Include="network\serverpackets\S_BASE_USER_ENTER.cs" />
+    <Compile Include="network\serverpackets\S_INVENTORY_LEAVE.cs" />
+    <Compile Include="network\serverpackets\S_BATTLE_READYBATTLE.cs" />
+    <Compile Include="network\serverpackets\S_BASE_ENTER_PROFILE.cs" />
+    <Compile Include="network\serverpackets\S_CLAN_ENTER.cs" />
+    <Compile Include="network\serverpackets\S_LOBBY_ENTER.cs" />
+    <Compile Include="network\serverpackets\S_BASE_GET_SCHANNELLIST.cs" />
+    <Compile Include="network\serverpackets\S_SHOP_LEAVE.cs" />
+    <Compile Include="network\serverpackets\S_CLAN_LEAVE.cs" />
+    <Compile Include="network\serverpackets\S_BASE_USER_LEAVE.cs" />
+    <Compile Include="network\serverpackets\SM_ANNOUNCE_GET.cs" />
+    <Compile Include="network\serverpackets\S_LOBBY_GET_ROOMINFO.cs" />
+    <Compile Include="network\serverpackets\S_BASE_GET_CHANNELLIST.cs" />
+    <Compile Include="network\serverpackets\S_LOBBY_LEAVE.cs" />
+    <Compile Include="network\serverpackets\S_BATTLE_RESPAWN.cs" />
+    <Compile Include="network\serverpackets\S_BASE_ENTER_CHANNELSELECT.cs" />
+    <Compile Include="network\serverpackets\S_BASE_GET_MYFRIENDS.cs" />
+    <Compile Include="network\serverpackets\S_LOBBY_CREATE_ROOM.cs" />
+    <Compile Include="network\serverpackets\S_LOBBY_JOIN_ROOM.cs" />
+    <Compile Include="network\serverpackets\S_BASE_GET_MYINFO.cs" />
+    <Compile Include="network\web\webserver.cs" />
+    <Compile Include="network\web\function\Client.cs" />
+    <Compile Include="network\web\function\Utilits.cs" />
+    <Compile Include="network\web\function\CookiesList.cs" />
+    <Compile Include="network\Login\packets\serverpackets\opcode_2667_ACK.cs" />
+    <Compile Include="network\Login\packets\serverpackets\opcode_2660_ACK.cs" />
+    <Compile Include="network\Login\packets\clientpacket\opcode_2660_REQ.cs" />
+    <Compile Include="network\Login\packets\clientpacket\opcode_2667_REQ.cs" />
+    <Compile Include="network\clientpacket\PROTOCOL_LOBBY_CREATE_ROOM_REQ.cs" />
+    <Compile Include="network\clientpacket\PROTOCOL_SERVER_MESSAGE_ANNOUNCE_REQ.cs" />
+    <Compile Include="network\clientpacket\PROTOCOL_LOBBY_GET_ROOMINFO_REQ.cs" />
+    <Compile Include="network\clientpacket\PROTOCOL_BASE_GET_MYINFO_REQ.cs" />
+    <Compile Include="network\Game\packets\clientpackets\opcode_3860_REQ.cs" />
+    <Compile Include="network\clientpacket\PROTOCOL_INVENTORY_ENTER_REQ.cs" />
+    <Compile Include="network\clientpacket\PROTOCOL_CS_CLAN_LOGOUT_REQ.cs" />
+    <Compile Include="network\clientpacket\PROTOCOL_ROOM_CHANGE_TEAM_REQ.cs" />
+    <Compile Include="network\clientpacket\PROTOCOL_BASE_LOGIN_WEBKEY_RUSSIA_REQ.cs" />
+    <Compile Include="network\clientpacket\PROTOCOL_LOBBY_ENTER_REQ.cs" />
+    <Compile Include="network\clientpacket\PROTOCOL_BASE_USER_ENTER_REQ.cs" />
+    <Compile Include="network\clientpacket\PROTOCOL_INVENTORY_LEAVE_REQ.cs" />
+    <Compile Include="network\clientpacket\PROTOCOL_BASE_GET_MYFRIENDS_REQ.cs" />
+    <Compile Include="network\clientpacket\PROTOCOL_BATTLE_RESPAWN_REQ.cs" />
+    <Compile Include="network\clientpacket\PROTOCOL_CS_CLAN_LOGIN_REQ.cs" />
+    <Compile Include="network\clientpacket\PROTOCOL_LOBBY_LEAVE_REQ.cs" />
+    <Compile Include="network\clientpacket\PROTOCOL_BASE_USER_LEAVE_REQ.cs" />
+    <Compile Include="network\clientpacket\PROTOCOL_BASE_ENTER_CHANNELSELECT_REQ.cs" />
+    <Compile Include="network\clientpacket\ResInfo.cs" />
+    <Compile Include="network\clientpacket\PROTOCOL_SHOP_ENTER_REQ.cs" />
+    <Compile Include="network\clientpacket\PROTOCOL_LOBBY_CHATTING_REQ.cs" />
+    <Compile Include="network\clientpacket\PROTOCOL_BASE_ENTER_PROFILE_REQ.cs" />
+    <Compile Include="network\clientpacket\PROTOCOL_LOBBY_GET_ROOMLIST_REQ.cs" />
+    <Compile Include="network\clientpacket\PROTOCOL_BATTLE_READYBATTLE_REQ.cs" />
+    <Compile Include="network\clientpacket\PROTOCOL_SHOP_LEAVE_REQ.cs" />
+    <Compile Include="network\clientpacket\PROTOCOL_BASE_GET_SCHANNELLIST_REQ.cs" />
+    <Compile Include="network\clientpacket\PROTOCOL_LOBBY_JOIN_ROOM_REQ.cs" />
+    <Compile Include="network\BattleConnect\UdpHandler.cs" />
+    <Compile Include="src\data\model\GameServerInfo.cs" />
+    <Compile Include="src\data\model\ChannelInfo.cs" />
+    <Compile Include="src\data\xml\holders\AbstractHolder.cs" />
+    <Compile Include="src\data\xml\holders\ChannelInfoHolder.cs" />
+    <Compile Include="src\data\xml\holders\ItemTemplateHolder.cs" />
+    <Compile Include="src\data\xml\holders\GameServerInfoHolder.cs" />
+    <Compile Include="src\data\xml\holders\ShopItemHolder.cs" />
+    <Compile Include="src\data\xml\parsers\GameServerInfoParser.cs" />
+    <Compile Include="src\data\xml\parsers\ChannelInfoParser.cs" />
+    <Compile Include="src\data\xml\parsers\IllegalArgumentException.cs" />
+    <Compile Include="src\data\xml\parsers\ItemTemplateParser.cs" />
+    <Compile Include="src\commons\data\holders\IHolder.cs" />
+    <Compile Include="src\commons\data\utils\ParamSet.cs" />
+    <Compile Include="src\data\xml\parsers\ShopItemParser.cs" />
+    <Compile Include="src\managers\ConfigManager.cs" />
+    <Compile Include="src\managers\FriendManager.cs" />
+    <Compile Include="src\managers\MissionManager.cs" />
+    <Compile Include="src\managers\ShopInfoManager.cs" />
+    <Compile Include="src\model\accounts\ConfigP.cs" />
+    <Compile Include="src\model\accounts\ShopInfo.cs" />
+    <Compile Include="src\model\friends\Friends.cs" />
+    <Compile Include="src\model\Channel.cs" />
+    <Compile Include="src\model\Mission.cs" />
+    <Compile Include="src\model\Chat.cs" />
+    <Compile Include="src\model\CardMission.cs" />
+    <Compile Include="src\model\Item.cs" />
+    <Compile Include="src\model\ENUMS\CHANNEL_TYPE.cs" />
+    <Compile Include="src\model\accounts\Account.cs" />
+    <Compile Include="src\model\rooms\ROOM_STATE.cs" />
+    <Compile Include="src\model\rooms\SLOT.cs" />
+    <Compile Include="src\model\rooms\SLOT_STATE.cs" />
+    <Compile Include="src\model\rooms\Room.cs" />
+    <Compile Include="network\Game\packets\serverpackets\opcode_3850_ACK.cs" />
+    <Compile Include="src\network\gsPacket\clientpackets\PROTOCOL_BATTLE_ENDBATTLE_REQ.cs" />
+    <Compile Include="src\network\gsPacket\clientpackets\PROTOCOL_BATTLE_PRESTARTBATTLE_REQ.cs" />
+    <Compile Include="src\network\gsPacket\clientpackets\PROTOCOL_BATTLE_STARTBATTLE_REQ.cs" />
+    <Compile Include="src\network\gsPacket\clientpackets\PROTOCOL_BATTLE_TIMERSYNC_REQ.cs" />
+    <Compile Include="src\network\gsPacket\serverpackets\S_BATTLE_ENDBATTLE.cs" />
+    <Compile Include="src\network\gsPacket\serverpackets\S_BATTLE_PRESTARTBATTLE.cs" />
+    <Compile Include="src\network\gsPacket\serverpackets\S_BATTLE_STARTBATTLE.cs" />
+    <Compile Include="src\templates\AbstractTemplate.cs" />
+    <Compile Include="src\templates\ItemTemplate.cs" />
+    <Compile Include="src\templates\CuponsTemplate.cs" />
+    <Compile Include="src\templates\ArmorTemplate.cs" />
+    <Compile Include="src\templates\NEWShopTemplate.cs" />
+    <Compile Include="src\templates\ShopTemplate.cs" />
+    <Compile Include="src\templates\WeaponCTemplate.cs" />
+    <Compile Include="src\templates\WeaponNHTemplate.cs" />
+    <Compile Include="src\templates\WeaponTemplate.cs" />
+    <Compile Include="src\managers\AccountManager.cs" />
+    <Compile Include="src\managers\DaoManager.cs" />
+    <Compile Include="model\Frag.cs" />
+    <Compile Include="model\FragInfos.cs" />
+    <Compile Include="model\ServerVersion.cs" />
+    <Compile Include="model\ENUMS\TeamEnum.cs" />
+    <Compile Include="model\accounts\AccessLevel.cs" />
+    <Compile Include="model\players\PlayerEquep.cs" />
+    <Compile Include="model\players\PlayerStats.cs" />
+    <Compile Include="model\players\PlayerInventory.cs" />
+    <Compile Include="model\players\ItemsModel.cs" />
+    <Compile Include="model\clans\Clan.cs" />
+    <Compile Include="managers\StorageManager.cs" />
+    <Compile Include="managers\ThreadManager.cs" />
+    <Compile Include="managers\NetRedClass.cs" />
+    <Compile Include="managers\ClanManager.cs" />
+    <Compile Include="db\SQL_Block.cs" />
+    <Compile Include="db\SQLjec.cs" />
+    <Compile Include="Properties\Resources.cs" />
+    <Compile Include="threading\GC.cs" />
+    <Compile Include="crypt\BitRotate.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="server.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+</Project>

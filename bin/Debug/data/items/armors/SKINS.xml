@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<list>
+	<armor id="1001001003" name="Девушка Красные За ГП">
+		<set name="class" val="ITEM_CLASS_CHARA" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_RED" />
+	</armor>
+
+	<armor id="1001001004" name="Девушка Синие За ГП">
+		<set name="class" val="ITEM_CLASS_CHARA" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_BLUE" />
+	</armor>
+
+	<armor id="1001001005" name="Мужчина Стандартный Красные">
+		<set name="class" val="ITEM_CLASS_CHARA" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_RED" />
+	</armor>
+
+	<armor id="1001001006" name="Мужчина Стандартный Синие">
+		<set name="class" val="ITEM_CLASS_CHARA" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_BLUE" />
+	</armor>
+
+	<armor id="1001001007" name="Мужчина +20% Красные">
+		<set name="class" val="ITEM_CLASS_CHARA" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_RED" />
+	</armor>
+
+	<armor id="1001001008" name="Мужчина +20% Синие">
+		<set name="class" val="ITEM_CLASS_CHARA" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_BLUE" />
+	</armor>
+
+	<armor id="1001001010" name="Девушка +30% Красные">
+		<set name="class" val="ITEM_CLASS_CHARA" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_RED" />
+	</armor>
+
+	<armor id="1001001009" name="Девушка +30% Синие">
+		<set name="class" val="ITEM_CLASS_CHARA" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_BLUE" />
+	</armor>
+</list>

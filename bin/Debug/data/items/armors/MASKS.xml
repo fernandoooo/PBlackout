@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<list>
+	<armor id="1104003001" name="White mask (Белая маска)">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+
+	<armor id="1104003002" name="Black Mask (Черная маска)">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+
+	<armor id="1104003003" name="Blue Russian Mask (русская)">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+
+	<armor id="1104003004" name="K- Marine Mask (м.котики)">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+
+	<armor id="1104003005" name="FR- Desert Mask (пустынная)">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+
+	<armor id="1104003006" name="Flame Mask (Огненная маска)">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+
+	<armor id="1104003007" name="Two Tone Mask (Двухцветная маска)">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+
+	<armor id="1104003008" name="Iron Mask (Железная маска)">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+
+	<armor id="1104003009" name="Target Mask (Маска-мишень)">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+
+	<armor id="1104003010" name="Pumpkin Mask (Маска тыквы)">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+
+	<armor id="1104003011" name="Jewel Pink Mask (Розовая маска)">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+
+	<armor id="1104003012" name="Gold Mask (Золотая маска)">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+
+	<armor id="1104003013" name="Skull Mask (Маска-череп)">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+
+	<armor id="1104003014" name="Маска клоуна">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+
+	<armor id="1104003015" name="Маска пришельца">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+
+	<armor id="1104003016" name="Маска пришельца (красная)">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+	
+	<armor id="1104003017" name="Маска Тамплиера">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+	
+	<armor id="1104003018" name="Маска маньяка 2">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+	
+	<armor id="1104003019" name="Маска панды">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+	
+	<armor id="1104003020" name="Маска из фильма Star Wars">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+
+	<armor id="1104003021" name="Маска Дьявола">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+	
+	<armor id="1104003022" name="Аргентинская маска">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+	
+	<armor id="1104003023" name="Бразильская маска">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+	
+	<armor id="1104003024" name="Греческая маска">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+	
+	<armor id="1104003025" name="Французская маска">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+	
+	<armor id="1104003026" name="Немецкая маска">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+	
+	<armor id="1104003027" name="Итальянская маска">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+	
+	<armor id="1104003028" name="Японская маска">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+	
+	<armor id="1104003029" name="Итальянская маска">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+		
+	<armor id="1104003030" name="Маска Кореи">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+	
+	<armor id="1104003031" name="Маска Испании">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+	
+		<armor id="1104003035" name="Российская маска">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+		
+		<armor id="1104003036" name="Украинская маска ">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+		
+		<armor id="1104003037" name="Белорусская маска">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+			
+		<armor id="1104003038" name="Казахстанская маска">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+			
+		<armor id="1104003039" name="Комплект масок красного дьявола">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+</list>

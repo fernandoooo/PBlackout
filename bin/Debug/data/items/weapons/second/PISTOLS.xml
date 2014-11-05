@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<list>
+	<weapon id="601002001" name="Desert Eagle">
+		<set name="class" val="ITEM_CLASS_HANDGUN" />
+		<set name="slot" val="EQMIPEMENT_SLOT_SUB" />
+		<set name="usage_type" val="WEAPON_USAGE_SECONDARY" />
+		<set name="class_type" val="WEAPON_CLASS_HANDGUN" />
+	</weapon>
+
+	<weapon id="601002002" name="Mk 23 Ext.">
+		<set name="class" val="ITEM_CLASS_HANDGUN" />
+		<set name="slot" val="EQMIPEMENT_SLOT_SUB" />
+		<set name="usage_type" val="WEAPON_USAGE_SECONDARY" />
+		<set name="class_type" val="WEAPON_CLASS_HANDGUN" />
+	</weapon>
+
+	<weapon id="601002003" name="K-5">
+		<set name="class" val="ITEM_CLASS_HANDGUN" />
+		<set name="slot" val="EQMIPEMENT_SLOT_SUB" />
+		<set name="usage_type" val="WEAPON_USAGE_SECONDARY" />
+		<set name="class_type" val="WEAPON_CLASS_HANDGUN" />
+	</weapon>
+
+	<weapon id="601002005" name="D-Eagle S.">
+		<set name="class" val="ITEM_CLASS_HANDGUN" />
+		<set name="slot" val="EQMIPEMENT_SLOT_SUB" />
+		<set name="usage_type" val="WEAPON_USAGE_SECONDARY" />
+		<set name="class_type" val="WEAPON_CLASS_HANDGUN" />
+	</weapon>
+
+	<weapon id="601002007" name="C.Python">
+		<set name="class" val="ITEM_CLASS_HANDGUN" />
+		<set name="slot" val="EQMIPEMENT_SLOT_SUB" />
+		<set name="usage_type" val="WEAPON_USAGE_SECONDARY" />
+		<set name="class_type" val="WEAPON_CLASS_HANDGUN" />
+	</weapon>
+	
+	<weapon id="601002011" name="Glock 18">
+		<set name="class" val="ITEM_CLASS_HANDGUN" />
+		<set name="slot" val="EQMIPEMENT_SLOT_SUB" />
+		<set name="usage_type" val="WEAPON_USAGE_SECONDARY" />
+		<set name="class_type" val="WEAPON_CLASS_HANDGUN" />
+	</weapon>
+
+	<weapon id="601002013" name="R.B 454 SS2M">
+		<set name="class" val="ITEM_CLASS_HANDGUN" />
+		<set name="slot" val="EQMIPEMENT_SLOT_SUB" />
+		<set name="usage_type" val="WEAPON_USAGE_SECONDARY" />
+		<set name="class_type" val="WEAPON_CLASS_HANDGUN" />
+	</weapon>
+
+	<weapon id="601002014" name="R.B 454 SS5M">
+		<set name="class" val="ITEM_CLASS_HANDGUN" />
+		<set name="slot" val="EQMIPEMENT_SLOT_SUB" />
+		<set name="usage_type" val="WEAPON_USAGE_SECONDARY" />
+		<set name="class_type" val="WEAPON_CLASS_HANDGUN" />
+	</weapon>
+
+	<weapon id="601002015" name="R.B 454 SS8M">
+		<set name="class" val="ITEM_CLASS_HANDGUN" />
+		<set name="slot" val="EQMIPEMENT_SLOT_SUB" />
+		<set name="usage_type" val="WEAPON_USAGE_SECONDARY" />
+		<set name="class_type" val="WEAPON_CLASS_HANDGUN" />
+	</weapon>
+
+	<weapon id="601002016" name="R.B 454 SS8M+S">
+		<set name="class" val="ITEM_CLASS_HANDGUN" />
+		<set name="slot" val="EQMIPEMENT_SLOT_SUB" />
+		<set name="usage_type" val="WEAPON_USAGE_SECONDARY" />
+		<set name="class_type" val="WEAPON_CLASS_HANDGUN" />
+	</weapon>
+	
+    <weapon id="601002017" name="C.Python G">
+		<set name="class" val="ITEM_CLASS_HANDGUN" />
+		<set name="slot" val="EQMIPEMENT_SLOT_SUB" />
+		<set name="usage_type" val="WEAPON_USAGE_SECONDARY" />
+		<set name="class_type" val="WEAPON_CLASS_HANDGUN" />
+	</weapon>
+	
+	<weapon id="601002018" name="C.Python G D">
+		<set name="class" val="ITEM_CLASS_HANDGUN" />
+		<set name="slot" val="EQMIPEMENT_SLOT_SUB" />
+		<set name="usage_type" val="WEAPON_USAGE_SECONDARY" />
+		<set name="class_type" val="WEAPON_CLASS_HANDGUN" />
+	</weapon>
+	
+		<weapon id="601002019" name="Mk 23 Ext. D">
+		<set name="class" val="ITEM_CLASS_HANDGUN" />
+		<set name="slot" val="EQMIPEMENT_SLOT_SUB" />
+		<set name="usage_type" val="WEAPON_USAGE_SECONDARY" />
+		<set name="class_type" val="WEAPON_CLASS_HANDGUN" />
+	</weapon>
+	
+		<weapon id="601002020" name="C.Python D">
+		<set name="class" val="ITEM_CLASS_HANDGUN" />
+		<set name="slot" val="EQMIPEMENT_SLOT_SUB" />
+		<set name="usage_type" val="WEAPON_USAGE_SECONDARY" />
+		<set name="class_type" val="WEAPON_CLASS_HANDGUN" />
+	</weapon>
+	<weapon id="601002021" name="Glock 18 D">
+		<set name="class" val="ITEM_CLASS_HANDGUN" />
+		<set name="slot" val="EQMIPEMENT_SLOT_SUB" />
+		<set name="usage_type" val="WEAPON_USAGE_SECONDARY" />
+		<set name="class_type" val="WEAPON_CLASS_HANDGUN" />
+	</weapon>
+
+	<weapon id="601002022" name="Colt 45">
+		<set name="class" val="ITEM_CLASS_HANDGUN" />
+		<set name="slot" val="EQMIPEMENT_SLOT_SUB" />
+		<set name="usage_type" val="WEAPON_USAGE_SECONDARY" />
+		<set name="class_type" val="WEAPON_CLASS_HANDGUN" />
+	</weapon>
+
+	<weapon id="601002023" name="IMI Uzi 9mm">
+		<set name="class" val="ITEM_CLASS_HANDGUN" />
+		<set name="slot" val="EQMIPEMENT_SLOT_SUB" />
+		<set name="usage_type" val="WEAPON_USAGE_SECONDARY" />
+		<set name="class_type" val="WEAPON_CLASS_HANDGUN" />
+	</weapon>
+
+
+
+	
+	<weapon id="601013001" name="P99_HAK">
+		<set name="class" val="ITEM_CLASS_HANDGUN" />
+		<set name="slot" val="EQMIPEMENT_SLOT_SUB" />
+		<set name="usage_type" val="WEAPON_USAGE_SECONDARY" />
+		<set name="class_type" val="WEAPON_CLASS_HANDGUN" />
+	</weapon>
+
+	<weapon id="601013002" name="P99_HAK Sl.">
+		<set name="class" val="ITEM_CLASS_HANDGUN" />
+		<set name="slot" val="EQMIPEMENT_SLOT_SUB" />
+		<set name="usage_type" val="WEAPON_USAGE_SECONDARY" />
+		<set name="class_type" val="WEAPON_CLASS_HANDGUN" />
+	</weapon>
+
+	<weapon id="601013003" name="P99_HAK D.">
+		<set name="class" val="ITEM_CLASS_HANDGUN" />
+		<set name="slot" val="EQMIPEMENT_SLOT_SUB" />
+		<set name="usage_type" val="WEAPON_USAGE_SECONDARY" />
+		<set name="class_type" val="WEAPON_CLASS_HANDGUN" />
+	</weapon>
+
+	<weapon id="601014001" name="Dual Handgun">
+		<set name="class" val="ITEM_CLASS_HANDGUN" />
+		<set name="slot" val="EQMIPEMENT_SLOT_SUB" />
+		<set name="usage_type" val="WEAPON_USAGE_SECONDARY" />
+		<set name="class_type" val="WEAPON_CLASS_HANDGUN" />
+	</weapon>
+
+	<weapon id="601014002" name="Dual D-Eagle">
+		<set name="class" val="ITEM_CLASS_HANDGUN" />
+		<set name="slot" val="EQMIPEMENT_SLOT_SUB" />
+		<set name="usage_type" val="WEAPON_USAGE_SECONDARY" />
+		<set name="class_type" val="WEAPON_CLASS_HANDGUN" />
+	</weapon>
+
+	<weapon id="601014004" name="Dual D-Eagle G.">
+		<set name="class" val="ITEM_CLASS_HANDGUN" />
+		<set name="slot" val="EQMIPEMENT_SLOT_SUB" />
+		<set name="usage_type" val="WEAPON_USAGE_SECONDARY" />
+		<set name="class_type" val="WEAPON_CLASS_HANDGUN" />
+	</weapon>
+
+	<weapon id="601014005" name="Dual Handgun D.">
+		<set name="class" val="ITEM_CLASS_HANDGUN" />
+		<set name="slot" val="EQMIPEMENT_SLOT_SUB" />
+		<set name="usage_type" val="WEAPON_USAGE_SECONDARY" />
+		<set name="class_type" val="WEAPON_CLASS_HANDGUN" />
+	</weapon>
+</list>

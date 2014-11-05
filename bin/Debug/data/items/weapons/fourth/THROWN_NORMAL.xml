@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<list>
+	<weapon id="803007001" name="K-400">
+		<set name="class" val="ITEM_CLASS_THROWING" />
+		<set name="slot" val="EQMIPEMENT_SLOT_THROWING" />
+		<set name="usage_type" val="WEAPON_USAGE_THROWING" />
+		<set name="class_type" val="WEAPON_CLASS_THROWING" />
+	</weapon>
+
+	<!-- <weapon id="803007002" name="Smoke">
+		<set name="damage" val="10" />
+	</weapon> -->
+
+	<!--<weapon id="803007003" name="Flash">
+		<set name="damage" val="10" />
+	</weapon> -->
+
+	<weapon id="803007004" name="C-5">
+		<set name="class" val="ITEM_CLASS_THROWING" />
+		<set name="slot" val="EQMIPEMENT_SLOT_THROWING" />
+		<set name="usage_type" val="WEAPON_USAGE_THROWING" />
+		<set name="class_type" val="WEAPON_CLASS_THROWING" />
+	</weapon>
+
+	<!-- <weapon id="803007005" name="WP Smoke">
+		<set name="damage" val="10" />
+	</weapon> -->
+
+	<weapon id="803007006" name="C-5 D.">
+		<set name="class" val="ITEM_CLASS_THROWING" />
+		<set name="slot" val="EQMIPEMENT_SLOT_THROWING" />
+		<set name="usage_type" val="WEAPON_USAGE_THROWING" />
+		<set name="class_type" val="WEAPON_CLASS_THROWING" />
+	</weapon>
+
+	<!-- <weapon id="803007007" name="Wp Smoke D.">
+		<set name="damage" val="10" />
+	</weapon> -->
+</list>

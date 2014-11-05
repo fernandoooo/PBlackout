@@ -1,0 +1,26 @@
+05/11/2014 11:39:13 - |---------------------------------|
+05/11/2014 11:39:13 - |     Project Blackout Server     |
+05/11/2014 11:39:13 - | Bugs corrigidos pela MoMz Games |
+05/11/2014 11:39:13 - |     Server 2x1 PVP, 2x8 BOT     |
+05/11/2014 11:39:13 - |           Cliente Árabe         |
+05/11/2014 11:39:13 - |          Versão: 0.0.1.29       |
+05/11/2014 11:39:13 - |---------------------------------|
+05/11/2014 11:39:13 - |[SIIH]| Foram carregados 14 itens iniciais.
+05/11/2014 11:39:13 - |[GSH]| Foram carregados 3 servidores.
+05/11/2014 11:39:13 - |[CIH]| Foram carregados 10 canais.
+05/11/2014 11:39:13 - |[SQLJ]| IP: localhost:3306
+05/11/2014 11:39:13 - |[SQLJ]| MySQL: estabelecendo conexão...
+05/11/2014 11:39:14 - |[CM]| Foram carregados 1 clans.
+05/11/2014 11:39:14 - |[CFM]| Foram encontradas 22 configurações.
+05/11/2014 11:39:14 - |[ACM]| Nenhuma conta foi encontrada
+05/11/2014 11:39:14 - |[ACM]| System.IndexOutOfRangeException: Could not find specified column in results
+   em MySql.Data.MySqlClient.MySqlDataReader.GetOrdinal(String name)
+   em MySql.Data.MySqlClient.MySqlDataReader.GetInt32(String column)
+   em PBServer.src.managers.AccountManager..ctor() na J:\Nova pasta\serverpbth\src\managers\AccountManager.cs:linha 56
+05/11/2014 11:39:14 - |[FIM]| Foram carregados 13 amigos.
+05/11/2014 11:39:14 - |[REIH]| Foram carregados 56 modos de upar.
+05/11/2014 11:39:14 - |[SIM]| Foram carregadas 296 informações da loja.
+05/11/2014 11:39:14 - |[MM]| Foram carregadas 1 missão(sões).
+05/11/2014 11:39:14 - |[PTH]| Foram carregados 1 templates de jogadores.
+05/11/2014 11:39:14 - |[NLF]| Login Server IP: 127.0.0.1:39190
+05/11/2014 11:39:14 - |[NGF]| Game Server IP: 127.0.0.1:39191

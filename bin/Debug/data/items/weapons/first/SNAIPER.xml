@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<list>
+	<weapon id="300005001" name="Dragunov">
+		<set name="class" val="ITEM_CLASS_SNIPER" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SNIPER" />
+	</weapon>
+
+	<weapon id="300005002" name="PSG-1">
+		<set name="class" val="ITEM_CLASS_SNIPER" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SNIPER" />
+	</weapon>
+
+	<weapon id="300005003" name="SSG-69">
+		<set name="class" val="ITEM_CLASS_SNIPER" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SNIPER" />
+	</weapon>
+
+	<weapon id="300005004" name="SSG-69 S.">
+		<set name="class" val="ITEM_CLASS_SNIPER" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SNIPER" />
+	</weapon>
+
+	<weapon id="300005005" name="L115A1">
+		<set name="class" val="ITEM_CLASS_SNIPER" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SNIPER" />
+	</weapon>
+
+	<weapon id="300005006" name="Dragunov G.">
+		<set name="class" val="ITEM_CLASS_SNIPER" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SNIPER" />
+	</weapon>
+
+	<weapon id="300005007" name="PSG-1 S.">
+		<set name="class" val="ITEM_CLASS_SNIPER" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SNIPER" />
+	</weapon>
+
+	<weapon id="300005008" name="SSG-69 Sl.">
+		<set name="class" val="ITEM_CLASS_SNIPER" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SNIPER" />
+	</weapon>
+
+	<weapon id="300005009" name="PSG-1 Sl.">
+		<set name="class" val="ITEM_CLASS_SNIPER" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SNIPER" />
+	</weapon>
+
+	<weapon id="300005010" name="Dragunov Sl.">
+		<set name="class" val="ITEM_CLASS_SNIPER" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SNIPER" />
+	</weapon>
+
+	<weapon id="300005011" name="Dragunov CS.">
+		<set name="class" val="ITEM_CLASS_SNIPER" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SNIPER" />
+	</weapon>
+
+	<weapon id="300005012" name="Dragunov CG.">
+		<set name="class" val="ITEM_CLASS_SNIPER" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SNIPER" />
+	</weapon>
+
+	<!-- Не работает <weapon id="300005013" name="Dragunov GD.">
+		<set name="class" val="ITEM_CLASS_SNIPER" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SNIPER" />
+	</weapon> -->
+
+	<weapon id="300005014" name="Dragunov CG.">
+		<set name="class" val="ITEM_CLASS_SNIPER" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SNIPER" />
+	</weapon>
+
+	<weapon id="300005018" name="M4 SRP lvl 1">
+		<set name="class" val="ITEM_CLASS_SNIPER" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SNIPER" />
+	</weapon>
+
+	<weapon id="300005019" name="M4 SRP lvl 2">
+		<set name="class" val="ITEM_CLASS_SNIPER" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SNIPER" />
+	</weapon>
+
+	<weapon id="300005020" name="M4 SRP lvl 3">
+		<set name="class" val="ITEM_CLASS_SNIPER" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SNIPER" />
+	</weapon>
+	
+	<weapon id="300005021" name="Rangemaster .338">
+		<set name="class" val="ITEM_CLASS_SNIPER" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SNIPER" />
+	</weapon>
+	
+    <weapon id="300005022" name="Rangemaster 7.62">
+		<set name="class" val="ITEM_CLASS_SNIPER" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SNIPER" />
+	</weapon>
+	
+	<weapon id="300005023" name="Rangemaster 7.62 STBY">
+		<set name="class" val="ITEM_CLASS_SNIPER" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SNIPER" />
+	</weapon>
+	
+	<weapon id="300005025" name="SSG-69">
+		<set name="class" val="ITEM_CLASS_SNIPER" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SNIPER" />
+	</weapon>
+	
+	<weapon id="300005026" name="L115a1 Black">
+		<set name="class" val="ITEM_CLASS_SNIPER" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SNIPER" />
+	</weapon>
+	
+    <weapon id="300005027" name="SSG-69 Sl. D">
+		<set name="class" val="ITEM_CLASS_SNIPER" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SNIPER" />
+	</weapon>
+	
+    <weapon id="300005028" name="СВД D">
+		<set name="class" val="ITEM_CLASS_SNIPER" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SNIPER" />
+	</weapon>
+	
+	<weapon id="300005029" name="ВСК-94">
+		<set name="class" val="ITEM_CLASS_SNIPER" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SNIPER" />
+	</weapon>
+	
+	<weapon id="300005030" name="CheyTac M200">
+		<set name="class" val="ITEM_CLASS_SNIPER" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_SNIPER" />
+	</weapon>
+</list>

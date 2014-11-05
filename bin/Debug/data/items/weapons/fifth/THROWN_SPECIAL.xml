@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<list>
+	<!--<weapon id="904007001" name="K-400">
+		<set name="damage" val="10" />
+	</weapon> -->
+
+	<weapon id="904007002" name="Smoke">
+		<set name="class" val="ITEM_CLASS_THROWING" />
+		<set name="slot" val="EQMIPEMENT_SLOT_THROWING" />
+		<set name="usage_type" val="WEAPON_USAGE_THROWING" />
+		<set name="class_type" val="WEAPON_CLASS_THROWING" />
+	</weapon>
+
+	<weapon id="904007003" name="Flash">
+		<set name="class" val="ITEM_CLASS_THROWING" />
+		<set name="slot" val="EQMIPEMENT_SLOT_THROWING" />
+		<set name="usage_type" val="WEAPON_USAGE_THROWING" />
+		<set name="class_type" val="WEAPON_CLASS_THROWING" />
+	</weapon>
+
+	<!-- <weapon id="904007004" name="C-5">
+		<set name="damage" val="10" />
+	</weapon> -->
+
+	<weapon id="904007005" name="WP Smoke">
+		<set name="class" val="ITEM_CLASS_THROWING" />
+		<set name="slot" val="EQMIPEMENT_SLOT_THROWING" />
+		<set name="usage_type" val="WEAPON_USAGE_THROWING" />
+		<set name="class_type" val="WEAPON_CLASS_THROWING" />
+	</weapon>
+
+	<!-- <weapon id="904007006" name="C-5 D.">
+		<set name="damage" val="10" />
+	</weapon> -->
+
+	<weapon id="904007007" name="Wp Smoke D.">
+		<set name="class" val="ITEM_CLASS_THROWING" />
+		<set name="slot" val="EQMIPEMENT_SLOT_THROWING" />
+		<set name="usage_type" val="WEAPON_USAGE_THROWING" />
+		<set name="class_type" val="WEAPON_CLASS_THROWING" />
+	</weapon>
+
+	<weapon id="904007014" name="Хелоуин Медицинский Комплект">
+		<set name="class" val="ITEM_CLASS_THROWING" />
+		<set name="slot" val="EQMIPEMENT_SLOT_THROWING" />
+		<set name="usage_type" val="WEAPON_USAGE_THROWING" />
+		<set name="class_type" val="WEAPON_CLASS_THROWING" />
+	</weapon>
+</list>

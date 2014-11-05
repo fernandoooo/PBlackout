@@ -1,0 +1,29 @@
+05/11/2014 12:14:51 - -----------------------------
+05/11/2014 12:14:51 - |   Servidor Project Wars   |
+05/11/2014 12:14:51 - |         PVP 4X4           |
+05/11/2014 12:14:51 - |         FIX 88%           |
+05/11/2014 12:14:51 - |  developer by Skelleton   |
+05/11/2014 12:14:51 - |      SystemPBlackout      |
+05/11/2014 12:14:51 - |          Versão: 0.0.1.29 |
+05/11/2014 12:14:51 - |                           |
+05/11/2014 12:14:51 - |                           |
+05/11/2014 12:14:51 - -----------------------------
+05/11/2014 12:14:51 - |[SIIH]| Foram carregados 14 itens iniciais.
+05/11/2014 12:14:52 - |[GSH]| Foram carregados 3 servidores.
+05/11/2014 12:14:52 - |[CIH]| Foram carregados 10 canais.
+05/11/2014 12:14:52 - |[SQLJ]| IP: localhost:3306
+05/11/2014 12:14:52 - |[SQLJ]| MySQL: estabelecendo conexão...
+05/11/2014 12:14:52 - |[CM]| Foram carregados 1 clans.
+05/11/2014 12:14:52 - |[CFM]| Foram encontradas 22 configurações.
+05/11/2014 12:14:52 - |[ACM]| Nenhuma conta foi encontrada
+05/11/2014 12:14:52 - |[ACM]| System.IndexOutOfRangeException: Could not find specified column in results
+   em MySql.Data.MySqlClient.MySqlDataReader.GetOrdinal(String name)
+   em MySql.Data.MySqlClient.MySqlDataReader.GetInt32(String column)
+   em PBServer.src.managers.AccountManager..ctor() na C:\Users\Guilherme\Desktop\PB\PBTroll Server 1-29\serverpbth\src\managers\AccountManager.cs:linha 56
+05/11/2014 12:14:52 - |[FIM]| Foram carregados 13 amigos.
+05/11/2014 12:14:52 - |[REIH]| Foram carregados 56 modos de upar.
+05/11/2014 12:14:52 - |[SIM]| Foram carregadas 296 informações da loja.
+05/11/2014 12:14:52 - |[MM]| Foram carregadas 1 missão(sões).
+05/11/2014 12:14:52 - |[PTH]| Foram carregados 1 templates de jogadores.
+05/11/2014 12:14:52 - |[NLF]| Login Server IP: 127.0.0.1:39190
+05/11/2014 12:14:52 - |[NGF]| Game Server IP: 127.0.0.1:39191

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<list>
+	<armor id="1103003001" name="Дикий зверь-Безумный Штурмовик">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+
+	<armor id="1103003002" name="Мародер-Неуловимый">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+
+	<armor id="1103003003" name="Призрак- Бесшумный Убийца">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+
+	<armor id="1103003004" name="Жестокий Разрушитель-Офицер">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+
+	<armor id="1103003005" name="Воин Возмездия-Огненный Шквал">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+
+	<armor id="1103003006" name="Берет сильнейшего клана">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+
+	<armor id="1103003007" name="Берет с красной звездой">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+
+	<armor id="1103003008" name="Берет с желтой звездой">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+
+	<armor id="1103003009" name="Берет со скрещенными ножами">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+
+	<armor id="1103003010" name="Берет чемпиона PBTN">
+		<set name="class" val="ITEM_CLASS_HEAD" />
+		<set name="slot" val="EQMIPEMENT_SLOT_CHAR_HEAD" />
+	</armor>
+</list>

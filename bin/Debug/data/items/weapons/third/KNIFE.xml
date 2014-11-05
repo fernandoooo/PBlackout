@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<list>
+	<weapon id="702001001" name="M7">
+		<set name="class" val="ITEM_CLASS_KNIFE" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_KNIFE" />
+	</weapon>
+
+	<weapon id="702001002" name="M9">
+		<set name="class" val="ITEM_CLASS_KNIFE" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_KNIFE" />
+	</weapon>
+
+	<weapon id="702001004" name="Amok Kukri">
+		<set name="class" val="ITEM_CLASS_KNIFE" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_KNIFE" />
+	</weapon>
+
+	<weapon id="702001006" name="Mini Axe">
+		<set name="class" val="ITEM_CLASS_KNIFE" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_KNIFE" />
+	</weapon>
+
+	<weapon id="702001007" name="Mini Axe">
+		<set name="class" val="ITEM_CLASS_KNIFE" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_KNIFE" />
+	</weapon>
+
+	<weapon id="702001008" name="Mini Axe">
+		<set name="class" val="ITEM_CLASS_KNIFE" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_KNIFE" />
+	</weapon>
+
+	<weapon id="702001009" name="M7 G.">
+		<set name="class" val="ITEM_CLASS_KNIFE" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_KNIFE" />
+	</weapon>
+
+	<weapon id="702001011" name="Non String">
+		<set name="class" val="ITEM_CLASS_KNIFE" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_KNIFE" />
+	</weapon>
+
+	<weapon id="702001012" name="Non String">
+		<set name="class" val="ITEM_CLASS_KNIFE" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_KNIFE" />
+	</weapon>
+
+	<weapon id="702001013" name="Non String">
+		<set name="class" val="ITEM_CLASS_KNIFE" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_KNIFE" />
+	</weapon>
+
+		<weapon id="702001017" name="Fang Blade">
+		<set name="class" val="ITEM_CLASS_KNIFE" />
+		<set name="slot" val="EQMIPEMENT_SLOT_PRIM" />
+		<set name="usage_type" val="WEAPON_USAGE_PRIMARY" />
+		<set name="class_type" val="WEAPON_CLASS_KNIFE" />
+	</weapon>
+</list>

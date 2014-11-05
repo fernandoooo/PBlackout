@@ -1,0 +1,24 @@
+D:\Games\OZ-Network\pb\rev\source2\Project Blackout Server Consolidation\obj\Debug\PBServer.Properties.Resources.resources
+D:\Games\OZ-Network\pb\rev\source2\Project Blackout Server Consolidation\obj\Debug\Project Blackout Server Consolidation.csproj.GenerateResource.Cache
+D:\Games\OZ-Network\pb\rev\source2\Project Blackout Server Consolidation\bin\Debug\PBServerС.exe
+D:\Games\OZ-Network\pb\rev\source2\Project Blackout Server Consolidation\bin\Debug\PBServerС.pdb
+D:\Games\OZ-Network\pb\rev\source2\Project Blackout Server Consolidation\bin\Debug\MySql.Data.dll
+D:\Games\OZ-Network\pb\rev\source2\Project Blackout Server Consolidation\obj\Debug\PBServerС.exe
+D:\Games\OZ-Network\pb\rev\source2\Project Blackout Server Consolidation\obj\Debug\PBServerС.pdb
+D:\Games\OZ-Network\pb\rev\source2\Project Blackout Server Consolidation\obj\Debug\Project Blackout Server Consolidation.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Desktop\Itens de Servidor de Point Blank\Backup\Project Blackout Server Consolidation\obj\Debug\PBServer.Properties.Resources.resources
+C:\Users\Marcelo\Desktop\Itens de Servidor de Point Blank\Backup\Project Blackout Server Consolidation\bin\Debug\MySql.Data.dll
+C:\Users\Marcelo\Desktop\Itens de Servidor de Point Blank\Backup\Project Blackout Server Consolidation\bin\Debug\PBServer.exe
+C:\Users\Marcelo\Desktop\Itens de Servidor de Point Blank\Backup\Project Blackout Server Consolidation\bin\Debug\PBServer.pdb
+C:\Users\Marcelo\Desktop\Itens de Servidor de Point Blank\Backup\Project Blackout Server Consolidation\obj\Debug\PBServer.exe
+C:\Users\Marcelo\Desktop\Itens de Servidor de Point Blank\Backup\Project Blackout Server Consolidation\obj\Debug\PBServer.pdb
+C:\Users\Marcelo\Desktop\Itens de Servidor de Point Blank\Backup\Project Blackout Server Consolidation\obj\Debug\Project Blackout Server Consolidation.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Desktop\Itens de Servidor de Point Blank\Backup\Project Blackout Server Consolidation\obj\Debug\Project Blackout Server Consolidation.csproj.GenerateResource.Cache
+C:\Users\Marcelo\Desktop\Servidor do PBTroll\Server\obj\Debug\PBServer.exe
+C:\Users\Marcelo\Desktop\Servidor do PBTroll\Server\obj\Debug\PBServer.pdb
+C:\Users\Marcelo\Desktop\Servidor do PBTroll\Server\bin\Debug\PBServer.exe
+C:\Users\Marcelo\Desktop\Servidor do PBTroll\Server\bin\Debug\PBServer.pdb
+C:\Users\Marcelo\Desktop\Servidor do PBTroll\Server\bin\Debug\MySql.Data.dll
+C:\Users\Marcelo\Desktop\Servidor do PBTroll\Server\obj\Debug\PBServer.Properties.Resources.resources
+C:\Users\Marcelo\Desktop\Servidor do PBTroll\Server\obj\Debug\Project Blackout Server Consolidation.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Desktop\Servidor do PBTroll\Server\obj\Debug\Project Blackout Server Consolidation.csproj.GenerateResource.Cache
