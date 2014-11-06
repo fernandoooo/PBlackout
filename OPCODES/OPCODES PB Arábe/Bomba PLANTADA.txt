@@ -1,0 +1,32 @@
+Listando Network adapter 'Realtek PCIe GBE Family Controller' on local host
+[CM]received data size: 17
+[CM]received size: 13
+[CM]received key: 128
+[CM]received opcode: 27744
+00000000   60 6C 08 EB A0 00 00 00  00 04 01 F8 00 10 01      `l·ë ······ø··· 
+
+[SM]received data size: 20
+[SM]received size: 16
+[SM]received opcode: 3345
+00000000   10 00 11 0D 02 02 00 00  00 00 00 00 00 00 00 00   ················
+00000010   00 00 00 00                                        ····            
+
+[SM]received data size: 23
+[SM]received size: 19
+[SM]received opcode: 3357
+00000000   13 00 1D 0D 00 00 00 00  00 2A 00 00 E0 72 C0 00   ·········*··àrÀ·
+00000010   80 F0 40 00 00 C9 C1                               ?ð@··ÉÁ         
+
+[CM]received data size: 17
+[CM]received size: 13
+[CM]received key: 128
+[CM]received opcode: 27488
+00000000   60 6B FB 03 68 00 00 00  00 04 01 F8 00 10 01      `kû·h······ø··· 
+
+[SM]received data size: 20
+[SM]received size: 16
+[SM]received opcode: 3345
+00000000   10 00 11 0D 02 02 00 00  00 00 00 00 00 00 00 00   ················
+00000010   00 00 00 00                                        ····            
+
+Parar! Network adapter 'Realtek PCIe GBE Family Controller' on local host

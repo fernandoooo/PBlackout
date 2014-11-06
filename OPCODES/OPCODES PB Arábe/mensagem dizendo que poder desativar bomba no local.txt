@@ -1,0 +1,6 @@
+Listando Network adapter 'Realtek PCIe GBE Family Controller' on local host
+[CM]received data size: 17
+[CM]received size: 13
+[CM]received key: 128
+[CM]received opcode: 27232
+00000000   60 6A E0 14 10 00 00 00  00 04 01 F8 00 10 01      `jà········ø··· 
