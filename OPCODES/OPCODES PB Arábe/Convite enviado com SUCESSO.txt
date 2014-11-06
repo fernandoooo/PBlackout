@@ -1,0 +1,8 @@
+Listando Network adapter 'Realtek PCIe GBE Family Controller' on local host
+[CM]received data size: 14
+[CM]received size: 10
+[CM]received key: 128
+[CM]received opcode: 65153
+00000000   81 FE 85 E0 20 00 00 10  20 80 00 05               þ?à ··· ?··    
+
+Parar! Network adapter 'Realtek PCIe GBE Family Controller' on local host
